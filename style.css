@@ -1,0 +1,44 @@
+*{margin:0; 
+    padding:0;
+    box-sizing:border-box;
+  
+  }
+  
+  h1{
+      color:blueviolet;
+  }
+  
+  h2{
+      color:lightcoral;
+  }
+  
+  h1, h2, p{
+      color:purple;
+  }
+  
+  body{
+      background-color:lightpink;
+  }
+  
+  #h2a{
+      color:brown;
+  }
+  .Almoço{
+      color:darkorange;
+  }
+  .Sobremesa{
+      color:slateblue;
+  }
+  img{
+      width:300px;
+  }
+  div{
+      width:350px;
+      height:150px;
+      background-color:grey;
+     margin-left:200px ;
+     padding-left: 50px;
+  
+  }
+  
+  /*Matéria nova*/
